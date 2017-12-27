@@ -1,5 +1,5 @@
 {
-  "name": "synchronous-promise",
+  "name": "@ge/synchronous-promise",
   "version": "2.0.3",
   "description": "Synchronous Promise-like prototype to use in testing where you would have used an ES6 Promise",
   "main": "index.js",
@@ -30,7 +30,7 @@
     "test-emitted": "mocha index-ts.spec.js",
     "debug-emitted": "mocha index-ts.spec.js --debug-brk --inspect"
   },
-  "author": "Davyd McColl <davydm@gmail.com> (https://github.com/fluffynuts)",
+  "author": "Davyd McColl <davydm@gmail.com> (https://github.com/fluffynuts), Ge Yang <yangge1987@gmail.com> (https://github.com/episodeyang)",
   "license": "BSD-3-Clause",
   "devDependencies": {
     "@types/chai": "^4.0.4",
